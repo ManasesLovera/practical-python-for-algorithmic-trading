@@ -1,0 +1,11 @@
+[project]
+name = "practical-python-for-algorithmic-trading"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "backtesting>=0.6.5",
+    "ipykernel>=6.30.1",
+    "scikit-learn>=1.7.2",
+]
